@@ -1,0 +1,15 @@
+streamlit>=1.33
+pandas>=2.0
+numpy>=1.24
+Pillow>=10.0
+folium>=0.15
+streamlit-folium>=0.15
+geopy>=2.4
+geocoder>=1.38
+cryptography>=42.0
+humanize>=4.7
+altair>=5.0
+pydeck>=0.8
+black>=24.0
+isort>=5.13
+ruff>=0.4
